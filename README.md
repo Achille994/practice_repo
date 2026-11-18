@@ -1,2 +1,5 @@
 # practice_repo
-A practice repo for demonstrating working with github
+Repo project is about understanding github environment.
+current plan
+repo organized
+contact information
